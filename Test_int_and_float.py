@@ -1,4 +1,5 @@
-In = input("Enter a number: ")
-In = int(In)
+A = float(input("Enter a float number: "))
+B = int(input("Enter a int number: "))
 
-print("The number you entered is: ", In)
+print("The float number is: {A}")
+print("The int number is: {B}")
